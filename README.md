@@ -1,3 +1,5 @@
+Last Update: 2026-11-01
+
 # 02 Rebooting the Ocean Ecosystem
 
 ## A Concept Proposal for Integrated Microplastic Removal and Ocean Alkalinity Enhancement
