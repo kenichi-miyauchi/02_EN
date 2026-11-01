@@ -1,6 +1,13 @@
 # 02 Rebooting the Ocean Ecosystem
 
 ## A Concept Proposal for Integrated Microplastic Removal and Ocean Alkalinity Enhancement
+# 02 Rebooting the Ocean Ecosystem
+
+### Documents
+- [A4 Summary (PDF)](02_Rebooting_the_Ocean_Ecosystem_EN_Rev1.1(A4 Summary).pdf)
+- [Full Proposal (PDF)](02_Rebooting_the_Ocean_Ecosystem_EN_Rev1.1_20261101.pdf)
+
+## A Concept Proposal Integrating Marine Microplastic Removal and Ocean Alkalinity Enhancement
 
 ### 1. Introduction
 
